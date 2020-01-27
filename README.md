@@ -22,6 +22,6 @@ When it got too complicated with types I switched to jsx. I have done so in:
 * [src/components/NoteList.jsx](./src/components/NoteList.jsx)
 
 ### Todo
-* The **toast** in *NodeForm* and *NiteList* do not work.
-* Make the whole project complete ***TypeScript***.
-* Build a prduktion version and set it online.
+* The **toast** in *NodeForm* and *NoteList* do not work.
+* Make the whole project complete TypeScript.
+* Build a prduction version and set it online.
